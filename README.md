@@ -1,6 +1,7 @@
 # Wall-Crack-Detection-Project
 
-![Uploading Screenshot (230).png…]()
+![Screenshot (230)](https://github.com/bhushanbkt/Wall-Crack-Detection-Project/assets/91175596/d3f30927-39ac-4738-8fd2-7050b82d76e7)
+
 
 
 This repository contains the code and resources for a Wall Crack Detection project, from data collection to model training and deployment. The project utilizes the Roboflow platform for data preprocessing and the Ultralytics YOLO framework for object detection.
